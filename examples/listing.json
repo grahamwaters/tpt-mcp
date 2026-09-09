@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "example-product",
+  "title": "Example Classroom Planner",
+  "description": "An editable classroom planner.\n\nWHAT YOU GET\n\n- Planning pages\n- A getting-started guide\n\nRESOURCE SIZE\n10 pages\n\nHOW TO USE\nOpen the PDF and print the pages you need.\n\nBEFORE YOU BUY\n- This example is a schema template, not a finished product.",
+  "files": {
+    "download": "release/upload-ready/example-product/example-product.zip",
+    "preview": "release/upload-ready/example-product/preview.pdf",
+    "videoPreview": null,
+    "videoPreviewReason": "PDF preview supplied; no video.",
+    "thumbnails": [
+      "release/upload-ready/example-product/cover.png",
+      "release/upload-ready/example-product/thumb-1.png",
+      "release/upload-ready/example-product/thumb-2.png",
+      "release/upload-ready/example-product/thumb-3.png"
+    ]
+  },
+  "pricing": {
+    "free": false,
+    "price": 5,
+    "multipleLicensePrice": 5,
+    "bundleDiscountPrice": null,
+    "bundleDiscountReason": "No bundle discount.",
+    "taxCode": "Other Digital Goods - No Physical Media"
+  },
+  "categories": {
+    "grades": ["Not Grade Specific"],
+    "subjects": ["Not Subject Specific"],
+    "tags": ["Teacher Planners"],
+    "formats": ["PDF"],
+    "customCategories": [],
+    "customCategoriesReason": "No store custom category."
+  },
+  "educationStandards": {
+    "CCSS": [], "NGSS": [], "TEKS": [], "VA_SOL": [],
+    "reason": "Teacher planning resource; no student-standard alignment claimed."
+  },
+  "details": {
+    "teachingDuration": "Lifelong Tool",
+    "durationBasis": "Reusable planning resource.",
+    "pageCountDisplay": "10 pages",
+    "answerKey": "Does Not Apply",
+    "answerKeyReason": "A planner has no fixed-answer assignment."
+  },
+  "copyright": {"declaration": "original", "basis": "Replace with your actual rights review."},
+  "status": {"active": false},
+  "review": {"releaseReady": false, "findings": ["Example only: replace metadata and supply your own finished assets."]}
+}

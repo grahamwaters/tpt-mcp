@@ -1,0 +1,12 @@
+{
+  "count": 1,
+  "products": [
+    {
+      "id": "example-product",
+      "title": "Example Classroom Planner",
+      "price": 5,
+      "folder": "release/upload-ready/example-product",
+      "upload_package": "release/upload-ready/example-product/example-product.zip"
+    }
+  ]
+}
